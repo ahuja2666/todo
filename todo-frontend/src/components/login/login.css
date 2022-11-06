@@ -1,0 +1,26 @@
+.logincontain {
+  border: 2px solid orange;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 4%;
+  background-color: orange;
+}
+.loginbox {
+  border: 1px solid white;
+  background-color: white;
+  margin: 10%;
+}
+.loginname {
+  text-align: center;
+  margin-left: 1%;
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+#loginbtns {
+  margin-left: 40%;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.altermesg {
+  color: red;
+}

@@ -1,0 +1,25 @@
+.register-container {
+  border: 2px solid aqua;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 4%;
+  background-color: aqua;
+}
+.register-box {
+  border: 1px solid white;
+  background-color: white;
+  margin: 10%;
+}
+.rhead {
+  text-align: center;
+  margin-top: 20px;
+}
+#btn-register {
+  margin-top: 22px;
+  margin-left: 160px;
+  margin-bottom: 22px;
+}
+.messageerr {
+  margin-left: 20px;
+  color: red;
+}

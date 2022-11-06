@@ -1,0 +1,61 @@
+.headerto {
+  border: 2px solid greenyellow;
+  height: 150px;
+  margin: 20px;
+}
+.mainsect {
+  display: flex;
+  margin: 20px;
+  height: 400px;
+}
+.todosec {
+  background-color: greenyellow;
+  width: 200px;
+}
+.tablesec {
+  width: 80%;
+}
+.tdhisto {
+  text-align: center;
+}
+.h4todo {
+  margin-top: 20px;
+  color: blue;
+}
+.logoutbtncls {
+  margin-top: 2em;
+  margin-left: 50px;
+}
+
+.activinp {
+  margin-left: 900px;
+}
+.actbtn {
+  margin-left: 950px;
+  margin-top: 20px;
+  color: purple;
+  background-color: white;
+  font-weight: bold;
+  border-color: purple;
+  padding: 5px;
+}
+#tbl1 {
+  border: 1px solid black;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+tr {
+  border: 1px solid black;
+}
+.userkanam {
+  float: right;
+  margin-top: 50px;
+  margin-right: 20px;
+}
+.errmsg {
+  color: red;
+  margin-left: 950px;
+}
+.actbbtn {
+  cursor: pointer;
+}
